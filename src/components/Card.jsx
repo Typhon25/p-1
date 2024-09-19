@@ -10,11 +10,11 @@ export const Card = () => {
     },
     {
       image: "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=600",
-      text: "Explore the wonders of nature and discover hidden treasures in every corner."
+      text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, molestias."
     },
     {
       image: "https://images.pexels.com/photos/3225529/pexels-photo-3225529.jpeg?auto=compress&cs=tinysrgb&w=600",
-      text: "Embrace the beauty of simplicity and find joy in the little things around you."
+      text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, molestias."
     }
   ];
 
