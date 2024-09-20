@@ -5,16 +5,16 @@ export const Card = () => {
   
   const content = [
     {
-      image: "https://images.pexels.com/photos/406014/pexels-photo-406014.jpeg?auto=compress&cs=tinysrgb&w=600",
+      image: "https://unsplash.com/@urban_vintage",
       text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, molestias."
     },
     {
       image: "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&w=600",
-      text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, molestias."
+      text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. ."
     },
     {
       image: "https://images.pexels.com/photos/3225529/pexels-photo-3225529.jpeg?auto=compress&cs=tinysrgb&w=600",
-      text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, molestias."
+      text: "Lorem ipsum dolor sit amet consectetur "
     }
   ];
 
