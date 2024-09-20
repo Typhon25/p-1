@@ -5,7 +5,7 @@ export const Card = () => {
   
   const content = [
     {
-      image: "https://unsplash.com/@urban_vintage",
+      image: "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fG5hdHVyZXxlbnwwfHwwfHx8MA%3D%3D",
       text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, molestias."
     },
     {
